@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * PHP WSDL Generator
+ * https://github.com/SarirComputer/php-wsdl
+ */
+
 $data = [
     'name' => 'MyWSDL',
     'url' => 'http://127.0.0.1',
